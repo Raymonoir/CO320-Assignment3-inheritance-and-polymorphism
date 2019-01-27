@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Doctor
+comment0.text=\n\ A\ class\ storing\ details\ of\ a\ doctor.\n\ \n\ @author\ David\ J.\ Barnes\n\ @version\ 2018.12.04\n
+comment1.params=name
+comment1.target=Doctor(java.lang.String)
+comment1.text=\n\ Set\ the\ doctor's\ name\ and\ title.\n\ @param\ name\ The\ doctor's\ name.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Return\ the\ doctor's\ name.\n\ @return\ The\ name\ of\ this\ doctor.\n
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment3.text=\n\ Return\ the\ doctor's\ title.\n\ @return\ The\ title\ of\ this\ doctor.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Return\ the\ title\ and\ name\ of\ this\ doctor.\n\ @return\ The\ title\ and\ name\ of\ this\ doctor.\n
+numComments=5
