@@ -2,4 +2,4 @@
 ------------------------------------------------------------------------
 This task tested our knowledge of class inheritance and polymorphism
 
-I am awaiting a mark for this assignemnt
+I recieved a first for this assessment
