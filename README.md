@@ -2,4 +2,4 @@
 ------------------------------------------------------------------------
 This task tested our knowledge of class inheritance and polymorphism
 
-I recieved a first for this assessment
+I recieved 87% for this assessment
